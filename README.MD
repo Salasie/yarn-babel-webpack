@@ -150,12 +150,10 @@ $ mkdir dist
 
 #### 9.1 - Agregar .gitignore para:
   * node_module
-  * yarn.lock
   * .vscode (en mi caso es el editor que utilizo)
 
 ```sh
 node_modules
-yarn.Lock
 .vscode
 ```
 

@@ -1,8 +1,5 @@
 # Node Module
 node_modules
 
-# Yarn Lock
-yarn.Lock
-
 # VSCODE editor conf
 .vscode
